@@ -117,7 +117,7 @@
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toStartOf="@id/item_description"
                     app:layout_constraintTop_toBottomOf="@+id/item_description" />
-                />
+              
 
 
             </androidx.constraintlayout.widget.ConstraintLayout>
